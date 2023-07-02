@@ -1,6 +1,8 @@
 package BinarySearch;
 
 public class Qsn_6 {
+
+    // search element in Rotated binary Search
     public static void main(String[] args) {
         int[] arr={3,5,1};
         int ans=search(arr,3);
