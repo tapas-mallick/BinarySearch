@@ -2,7 +2,7 @@ package BinarySearch;
 
 import java.util.Arrays;
 
-public class BinarySeach_3 {
+public class BinarySearch_3 {
 
     //Find the target element in sorted matrix
     public static void main(String[] args) {
