@@ -1,7 +1,7 @@
 package BinarySearch;
 
 public class BinarySearch {
-    // Find target element in array using binary Search
+    // Find target element in array using binary Search and return the index of target elment 
     public static void main(String[] args) {
         int[] arr={-12,12,55,67,89,90,99,290,1000,4567};
         int ans=search(arr,-12);
