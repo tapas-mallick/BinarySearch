@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "formulahendry.code-runner",
+        "vscjava.vscode-java-debug",
+        "redhat.java",
+        "vscjava.vscode-java-pack"
+    ]
+}
